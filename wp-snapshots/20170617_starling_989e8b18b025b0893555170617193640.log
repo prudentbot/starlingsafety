@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-06-17 19:36:56
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.8
+PHP INFO:	5.6.29 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (90M default) 
+MEMORY STACK: 40.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:26 | filtered:0 | create:26 
+FILTERED: [] 
+SQL CREATED: 20170617_starling_989e8b18b025b0893555170617193640_database.sql 
+SQL FILE SIZE: 20.27MB (21254092) 
+SQL FILE TIME: 2017-06-17 19:37:03 
+SQL RUNTIME: 6.11 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/johdra14/starlingsafety.com 
+ARCHIVE FILE: 20170617_starling_989e8b18b025b0893555170617193640_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	333.75MB 
+STATS:	Dirs 525 | Files 5,040 
+SQL ADDED: 20170617_starling_989e8b18b025b0893555170617193640_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5565
+    [filename] => /home/johdra14/starlingsafety.com/wp-snapshots/tmp/20170617_starling_989e8b18b025b0893555170617193640_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 298.07MB 
+ARCHIVE RUNTIME: 28.24 sec. 
+MEMORY STACK: 43MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home/johdra14/starlingsafety.com/wp-snapshots/tmp/20170617_starling_989e8b18b025b0893555170617193640_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 20.27MB 
+Installer File: 428.42KB 
+Archive File: 298.07MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 35.47 sec.
+PEAK PHP MEMORY USED: 45MB
+DONE PROCESSING => 20170617_starling 2017-06-17 19:37:32
+ 

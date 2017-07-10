@@ -1,0 +1,90 @@
+/*
+ Theme Name:   Gateway Child
+ Theme URI:    https://rescuethemes.com
+ Description:  Gateway Child Theme
+ Author:       Rescue Themes
+ Author URI:   https://rescuethemes.com
+ Template:     gateway
+ Version:      1.0
+ Tags: light, white, gray, orange, three-columns, responsive-layout, featured-images, theme-options, custom-colors, threaded-comments, translation-ready, right-sidebar
+ Text Domain:  gateway-child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+article .entry-content
+li {
+  margin-bottom: 0em;
+}
+
+body {
+  font-family:"Ubuntu",sans-serif;
+}
+
+.top-bar-section ul li > a {
+  font-family:"Ubuntu",sans-serif;
+  font-weight:bold;
+}
+
+
+/*h1 {
+  font-family:"PT Sans",sans-serif;
+}
+
+h2 {
+  font-family:"PT Sans",sans-serif;
+}*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:"PT Sans",sans-serif;
+}
+
+select {
+  font-family:"Ubuntu",sans-serif;
+}
+
+.zoom-button {
+  font-size: 20px;
+  font-family: "Ubuntu",sans-serif;
+  margin-top:10px;
+  margin-right: 10px;
+}
+
+.map-title {
+  text-align: center;
+}
+
+article.hentry {
+  margin-bottom: 0px;
+}
+
+.comment {
+  list-style:none;
+}
+
+.comment .comment-content {
+  margin-left: 0;
+}
+
+.comment-verification {
+  float:right;
+  margin-right:30px;
+}
+/*
+.zoom-button {
+  width: 30px;
+  height: 30px;
+  border-radius: 4px;
+  border: none;
+  background: silver;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
+
+#zoom-info {
+  display: inline-block;
+  padding: 10px;
+}*/
